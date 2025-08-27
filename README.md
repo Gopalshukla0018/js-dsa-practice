@@ -1,42 +1,66 @@
-avaScript DSA Practice
+# JavaScript DSA Practice
 
-A personal repository to practice Data Structures & Algorithms (DSA) using JavaScript.
-For each problem, I implement three approaches:
+A personal repository to practice **Data Structures & Algorithms (DSA)** using **JavaScript**.  
+Each problem includes **three approaches** to help understand and compare solutions:
 
-Brute Force – the most straightforward solution, usually not optimal.
+1. **Brute Force** – The most straightforward solution, usually not optimal.  
+2. **Better Approach** – Improves time and/or space complexity.  
+3. **Optimal Approach** – The most efficient solution possible.
 
-Better Approach – improves on time/space complexity.
+This structure allows for **learning, comparison, and improvement** in problem-solving skills.
 
-Optimal Approach – the most efficient solution.
+---
 
-Each file clearly shows all three approaches for learning, comparison, and improving problem-solving skills.
-
+## Repository Structure
 /DSA-Practice-JS
 │
 ├─ Arrays/
-│   ├─ Problem1/
-│   │   ├─ bruteForce.js
-│   │   ├─ betterApproach.js
-│   │   └─ optimal.js
-│   ├─ Problem2/
-│   │   ├─ bruteForce.js
-│   │   ├─ betterApproach.js
-│   │   └─ optimal.js
-│   └─ ... (other array problems)
+│ ├─ Problem1/
+│ │ ├─ bruteForce.js
+│ │ ├─ betterApproach.js
+│ │ └─ optimal.js
+│ ├─ Problem2/
+│ │ ├─ bruteForce.js
+│ │ ├─ betterApproach.js
+│ │ └─ optimal.js
+│ └─ ... (other array problems)
 │
 ├─ Strings/
-│   ├─ Problem1/
-│   │   ├─ bruteForce.js
-│   │   ├─ betterApproach.js
-│   │   └─ optimal.js
-│   └─ ... (other string problems)
+│ ├─ Problem1/
+│ │ ├─ bruteForce.js
+│ │ ├─ betterApproach.js
+│ │ └─ optimal.js
+│ └─ ... (other string problems)
 │
 ├─ LinkedList/
-│   ├─ Problem1/
-│   │   ├─ bruteForce.js
-│   │   ├─ betterApproach.js
-│   │   └─ optimal.js
-│   └─ ... (other linked list problems)
+│ ├─ Problem1/
+│ │ ├─ bruteForce.js
+│ │ ├─ betterApproach.js
+│ │ └─ optimal.js
+│ └─ ... (other linked list problems)
 │
 └─ README.md
+
+
+---
+
+## How to Use
+
+1. Explore the folders for Arrays, Strings, and LinkedList.  
+2. Open any problem folder to see all three approaches (brute, better, optimal).  
+3. Study and compare different approaches to understand improvements in time and space complexity.
+
+---
+
+## Contribution
+
+This is a personal practice repository. You can **fork** or **clone** it for your own learning.  
+Feel free to **open issues** or **suggest improvements** for better approaches or optimizations.
+
+---
+
+## License
+
+This project is **open source** and free to use for learning purposes.
+
 
