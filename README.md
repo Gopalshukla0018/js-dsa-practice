@@ -10,34 +10,34 @@ Each problem includes **three approaches** to help understand and compare soluti
 This structure allows for **learning, comparison, and improvement** in problem-solving skills.
 
 ---
-
 ## Repository Structure
+
 /DSA-Practice-JS
 │
 ├─ Arrays/
-│ ├─ Problem1/
-│ │ ├─ bruteForce.js
-│ │ ├─ betterApproach.js
-│ │ └─ optimal.js
-│ ├─ Problem2/
-│ │ ├─ bruteForce.js
-│ │ ├─ betterApproach.js
-│ │ └─ optimal.js
-│ └─ ... (other array problems)
+│   ├─ Problem1/
+│   │   ├─ bruteForce.js
+│   │   ├─ betterApproach.js
+│   │   └─ optimal.js
+│   ├─ Problem2/
+│   │   ├─ bruteForce.js
+│   │   ├─ betterApproach.js
+│   │   └─ optimal.js
+│   └─ ... (other array problems)
 │
 ├─ Strings/
-│ ├─ Problem1/
-│ │ ├─ bruteForce.js
-│ │ ├─ betterApproach.js
-│ │ └─ optimal.js
-│ └─ ... (other string problems)
+│   ├─ Problem1/
+│   │   ├─ bruteForce.js
+│   │   ├─ betterApproach.js
+│   │   └─ optimal.js
+│   └─ ... (other string problems)
 │
 ├─ LinkedList/
-│ ├─ Problem1/
-│ │ ├─ bruteForce.js
-│ │ ├─ betterApproach.js
-│ │ └─ optimal.js
-│ └─ ... (other linked list problems)
+│   ├─ Problem1/
+│   │   ├─ bruteForce.js
+│   │   ├─ betterApproach.js
+│   │   └─ optimal.js
+│   └─ ... (other linked list problems)
 │
 └─ README.md
 
