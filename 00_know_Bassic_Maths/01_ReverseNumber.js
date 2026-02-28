@@ -20,3 +20,4 @@ function reverseNumber(N) {
 
 console.log(reverseNumber(12345)); // 54321
 console.log(reverseNumber(7789)); // 9877
+
