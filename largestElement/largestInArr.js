@@ -1,5 +1,5 @@
 let arr=[1,2,3,113,56,99]
-
+// assumming all the element in the array is positive number
 function largest(arr){
     let largest=0;
     for(let i=0;i<arr.length;i++){
