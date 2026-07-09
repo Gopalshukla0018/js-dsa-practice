@@ -1,0 +1,15 @@
+// optimal twoSum
+let arr=[1, 2, 3, 4, 6, 4];
+function twoSum(arr, target) {
+    let map = new Map();
+    for (let i = 0; i < arr.length; i++) {
+        let complement = target - arr[i];
+        if (map.has(complement)) {
+            return [map.get(complement), i];
+        }
+        map.set(arr[i], i);
+    }
+    return null;
+}
+
+console.log(twoSum(arr, 10));
